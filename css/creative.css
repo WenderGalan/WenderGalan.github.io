@@ -310,3 +310,48 @@ header.masthead p {
 .btn-primary:active, .btn-primary:focus {
   box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
 }
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+.progress-bar {
+  background: #FFD700 none repeat scroll 0 0;
+  line-height: 8px;
+}
+
+.progress {
+  background-color: #ddfbf5;
+  border-radius: 0;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1) inset;
+  height: 5px;
+  margin-bottom: 30px;
+  position: relative;
+}
+
+.skill-progress {
+  position: relative;
+  margin-bottom: 22px;
+}
+
+.web-per {
+  background: #FFD700 none repeat scroll 0 0;
+  color: #000000;
+  font-size: 10px;
+  height: 20px;
+  line-height: 19px;
+  position: absolute;
+  right: 2%;
+  text-align: center;
+  top: -4px;
+  width: 37px;
+}
+.web-per::after {
+  border-left: 6px solid transparent;
+  border-right: 6px solid transparent;
+  border-top: 9px solid #FFD700;
+  bottom: -9px;
+  content: "";
+  left: 13px;
+  position: absolute;
+}
