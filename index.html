@@ -255,7 +255,7 @@
 
     <footer class="py-5 bg-dark">
       <div class="container">
-        <p class="m-0 text-center text-white">Copyright &copy; 2023 Wender Galan All Rights Reserved</p>
+        <p class="m-0 text-center text-white">Copyright &copy; <span id="current-year"></span> Wender Galan All Rights Reserved</p>
       </div>
       <!-- /.container -->
     </footer>
@@ -271,6 +271,10 @@
 
     <!-- Custom scripts for this template -->
     <script src="js/creative.min.js"></script>
+
+    <script>
+      document.getElementById('current-year').textContent = new Date().getFullYear();
+    </script>
 
   </body>
 
