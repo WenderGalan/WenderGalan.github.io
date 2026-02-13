@@ -1,0 +1,89 @@
+{
+  "nav": {
+    "about": "About",
+    "skills": "Skills",
+    "experience": "Experience",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hello, I'm",
+    "name": "Wender Galan",
+    "subtitle": "Full Stack Developer",
+    "supporting": "Passionate about building elegant and efficient solutions.\nTransforming ideas into clean code and amazing experiences.",
+    "primaryCta": "View Projects",
+    "secondaryCta": "Get in touch",
+    "scroll": "Scroll",
+    "resumeCta": "Resume",
+    "resumeUrl": "https://docs.google.com/document/d/1L5pxnw6JOBTsEEPyEmaw2D38GLowoLfhGOpaVMLYzNk/edit?usp=sharing"
+  },
+  "about": {
+    "title": "About",
+    "paragraphOne": "I'm a full stack developer with experience building modern, scalable web applications. My programming journey started in 2017, and since then I've been improving my skills across a variety of technologies.",
+    "paragraphTwo": "I'm passionate about clean code, best development practices, and solving complex problems elegantly. I believe technology should serve people, making their lives simpler and more productive."
+  },
+  "skills": {
+    "title": "Skills",
+    "categories": {
+      "backend": "Back-end",
+      "frontend": "Front-end",
+      "databases": "Databases",
+      "devops": "DevOps",
+      "tools": "Tools and Methodologies"
+    },
+    "languages": {
+      "title": "Languages",
+      "items": {
+        "portuguese": "Portuguese - Native",
+        "english": "English - Intermediate"
+      }
+    }
+  },
+  "experience": {
+    "title": "Experience",
+    "present": "Present",
+    "items": {
+      "wg": {
+        "role": "Software Engineer",
+        "company": "WG Tecnologia da Informação",
+        "location": "Campo Grande, MS · Remote",
+        "description": "Robust back-end development using Java and the Spring ecosystem, including Spring Cloud for microservices. Proficiency in relational databases with focus on PostgreSQL. Experience in building CI/CD pipelines using Docker and Jenkins. Mastery of front-end technologies such as JavaScript, TypeScript and frameworks like Vue.js, Quasar, and Vuetify."
+      },
+      "mv": {
+        "role": "Back-end Developer",
+        "company": "MV",
+        "location": "Brazil",
+        "description": "Served as a project integrator, responsible for code review, market version generation, and support in ticket resolution. Distinguished myself on a project for a client in Ecuador, implementing improvements that reduced tickets by about 70%. Developed new features such as the report generation system maintenance and contributed to front-end development using Angular."
+      },
+      "tdr": {
+        "role": "Full Stack Developer",
+        "company": "TDR",
+        "location": "Campo Grande, MS",
+        "description": "Started as an Android developer and advanced to assist in developing an innovative educational project. Responsible for both backend in Java and frontend in Vue.js, played a central role in integration using Swagger. Assisted in designing and implementing a microservices architecture, optimizing processes and enabling distributed systems."
+      },
+      "macal": {
+        "role": "IT Trainee",
+        "company": "Macal Soluções em Nutrição",
+        "location": "Campo Grande, MS",
+        "description": "Responsible for computer maintenance and formatting. Implemented innovative solutions such as automatic maintenance software installation, resulting in a 30% reduction in technical support requests, improving operational efficiency and user satisfaction."
+      }
+    }
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "cta": "View on GitHub"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Let's talk! Get in touch.",
+    "emailLabel": "Email",
+    "locationLabel": "Location",
+    "locationValue": "Campo Grande, MS · Brazil",
+    "whatsappLabel": "WhatsApp",
+    "whatsappValue": "+55 67 98112-1278",
+    "whatsappMessage": "Hi! I came from the website and would like to talk to you."
+  },
+  "footer": {
+    "copyright": "© {year} Wender Galan. All rights reserved."
+  }
+}
