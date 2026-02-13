@@ -84,6 +84,6 @@
     "whatsappMessage": "Hi! I came from the website and would like to talk to you."
   },
   "footer": {
-    "copyright": "© 2026 Wender Galan. All rights reserved."
+    "copyright": "© {year} Wender Galan. All rights reserved."
   }
 }

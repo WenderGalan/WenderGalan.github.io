@@ -11,7 +11,7 @@
           <p class="text-sm font-semibold uppercase tracking-[0.2em] text-slate-500 dark:text-slate-400">
             {{ t('hero.greeting') }}
           </p>
-          <h1 class="text-4xl font-semibold leading-tight text-white md:text-5xl">
+          <h1 class="text-4xl font-semibold leading-tight text-slate-900 dark:text-white md:text-5xl">
             {{ t('hero.name') }}
           </h1>
           <p class="text-xl font-semibold text-[var(--color-primary)] md:text-2xl">
