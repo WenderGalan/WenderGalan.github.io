@@ -4,119 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef50130c-00d2-4f46-8a51-c485073c18c3" name="Changes" comment="Correção para pegar o ano da maquina de quem estiver acessando mesmo.">
-      <change afterPath="$PROJECT_DIR$/FEATURE_UPDATE_WEBSITE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/postcss.config.cjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/profile.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/project-1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/project-2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/project-3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/wender.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navbar.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SocialLinks.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composables/useLanguage.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composables/useScrollReveal.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composables/useTheme.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/experience.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/projects.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/skills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/env.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/i18n/en.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/i18n/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/i18n/pt.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/router/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/AboutSection.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/ContactSection.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/ExperienceSection.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/HeroSection.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/ProjectsSection.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/SkillsSection.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/theme.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/HomeView.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tailwind.config.cjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.node.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vite.config.ts" afterDir="false" />
+    <list default="true" id="0b9e3058-77d7-4a23-9526-4f3660a77784" name="Changes" comment="fix: update technologies list for Outros Projetos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/creative.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/creative.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/vite.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CopilotPersistence">
-    <persistenceIdMap>
-      <entry key="_D:/repos/study/WenderGalan.github.io" value="2fqQZVwcNnocbg23TLdzLv9DTeF" />
-    </persistenceIdMap>
-  </component>
-  <component name="CopilotUserSelectedModel">
-    <selectedModels>
-      <entry key="chat-panel" value="GPT-5.2-Codex" />
-      <entry key="agent-panel" value="GPT-5.2-Codex" />
-    </selectedModels>
-  </component>
-  <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="96" />
-    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="master" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "WenderGalan"
-  }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/WenderGalan/WenderGalan.github.io.git",
-    "accountId": "8ce97ba9-697f-4c04-a98b-1b96675a6b1d"
-  }
-}]]></component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 4
-}</component>
-  <component name="ProjectId" id="2fqQZVwcNnocbg23TLdzLv9DTeF" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "feature/repagination",
-    "ignore.virus.scanning.warn.message": "true",
-    "javascript.preferred.runtime.type.id": "node",
-    "junie.onboarding.icon.badge.shown": "true",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "D:/repos/study/WenderGalan.github.io/public",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "to.speed.mode.migration.done": "true",
-    "ts.external.directory.path": "D:\\repos\\study\\WenderGalan.github.io\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+    "ts.external.directory.path": "D:\\repos\\study\\WenderGalan.github.io\\node_modules\\typescript\\lib"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -124,50 +35,54 @@
       <recent name="D:\repos\study\WenderGalan.github.io\public" />
     </key>
   </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-js-predefined-d6986cc7102b-c7e53b3be11b-JavaScript-WS-253.28294.332" />
-      </set>
-    </attachedChunks>
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="ef50130c-00d2-4f46-8a51-c485073c18c3" name="Changes" comment="" />
-      <created>1714526183654</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1714526183654</updated>
-      <workItem from="1714526184776" duration="425000" />
-      <workItem from="1714526622691" duration="996000" />
-      <workItem from="1714527641070" duration="35000" />
-      <workItem from="1770990716525" duration="6363000" />
-    </task>
-    <task id="LOCAL-00001" summary="Correção para pegar o ano da maquina de quem estiver acessando mesmo.">
+    <task id="LOCAL-00001" summary="fix: update base path for Vite configuration">
       <option name="closed" value="true" />
-      <created>1714526661302</created>
+      <created>1770999141688</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1714526661302</updated>
+      <updated>1770999141688</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fix: update base path for Vite configuration">
+      <option name="closed" value="true" />
+      <created>1770999260245</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1770999260245</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fix: update title and base path for deployment">
+      <option name="closed" value="true" />
+      <created>1771002478858</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1771002478858</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fix: update title and base path for deployment">
+      <option name="closed" value="true" />
+      <created>1771003452866</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1771003452866</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fix: update technologies list for Outros Projetos">
+      <option name="closed" value="true" />
+      <created>1771005338015</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1771005338015</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Correção para pegar o ano da maquina de quem estiver acessando mesmo." />
-    <option name="LAST_COMMIT_MESSAGE" value="Correção para pegar o ano da maquina de quem estiver acessando mesmo." />
-  </component>
-  <component name="github-copilot-workspace">
-    <instructionFileLocations>
-      <option value=".github/instructions" />
-    </instructionFileLocations>
-    <promptFileLocations>
-      <option value=".github/prompts" />
-    </promptFileLocations>
+    <MESSAGE value="fix: update base path for Vite configuration" />
+    <MESSAGE value="fix: update title and base path for deployment" />
+    <MESSAGE value="fix: update technologies list for Outros Projetos" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: update technologies list for Outros Projetos" />
   </component>
 </project>
