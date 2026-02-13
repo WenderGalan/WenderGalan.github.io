@@ -25,7 +25,7 @@ export const projects: Project[] = [
     name: 'Outros Projetos',
     description: 'Explore mais projetos, experimentos e trabalhos de código aberto no meu perfil do GitHub.\n',
     image: 'https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=900&q=80',
-    technologies: ['Java', 'Spring Cloud', 'MongoDB'],
+    technologies: ['Java', 'Spring Cloud', 'MongoDB', 'PostgreSQL', 'Kafka', 'TypeScript'],
     githubUrl: 'https://github.com/WenderGalan'
   }
 ];
