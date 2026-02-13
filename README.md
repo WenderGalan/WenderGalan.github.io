@@ -1,3 +1,32 @@
-# Wender Galan Página Pessoal
+# Wender Galan Portfolio
 
-- Basicamente aqui temos o código fonte da minha página pessoal que pode ser acessada pelo link [wendergalan.github.io](https://wendergalan.github.io).
+Modern Vue 3 + Vite + Tailwind CSS personal portfolio.
+
+## Requirements
+
+- Node.js 18+
+- npm
+
+## Setup
+
+```bash
+npm install
+```
+
+## Development
+
+```bash
+npm run dev
+```
+
+## Build
+
+```bash
+npm run build
+```
+
+## Preview
+
+```bash
+npm run preview
+```

@@ -1,0 +1,89 @@
+{
+  "nav": {
+    "about": "Sobre",
+    "skills": "Habilidades",
+    "experience": "Experiência",
+    "projects": "Projetos",
+    "contact": "Contato"
+  },
+  "hero": {
+    "greeting": "Olá, eu sou",
+    "name": "Wender Galan",
+    "subtitle": "Desenvolvedor Full Stack",
+    "supporting": "Apaixonado por criar soluções elegantes e eficientes.\nTransformando ideias em código limpo e experiências incríveis.",
+    "primaryCta": "Ver Projetos",
+    "secondaryCta": "Entrar em contato",
+    "scroll": "Role",
+    "resumeCta": "Currículo",
+    "resumeUrl": "https://docs.google.com/document/d/1uf6Im_ctS5AUx3LhbWsdkNSV9HNgDDvtctZC4l1dJEY/edit?usp=sharing"
+  },
+  "about": {
+    "title": "Sobre",
+    "paragraphOne": "Sou um desenvolvedor full stack com experiência em criar aplicações web modernas e escaláveis. Minha jornada na programação começou em 2017, e desde então venho aprimorando minhas habilidades em diversas tecnologias.",
+    "paragraphTwo": "Tenho paixão por código limpo, boas práticas de desenvolvimento e por resolver problemas complexos de forma elegante. Acredito que a tecnologia deve servir às pessoas, tornando suas vidas mais simples e produtivas."
+  },
+  "skills": {
+    "title": "Habilidades",
+    "categories": {
+      "backend": "Back-end",
+      "frontend": "Front-end",
+      "databases": "Bancos de Dados",
+      "devops": "DevOps",
+      "tools": "Ferramentas e Metodologias"
+    },
+    "languages": {
+      "title": "Idiomas",
+      "items": {
+        "portuguese": "Português - Nativo",
+        "english": "Inglês - Intermediário"
+      }
+    }
+  },
+  "experience": {
+    "title": "Experiência",
+    "present": "Atualmente",
+    "items": {
+      "wg": {
+        "role": "Software Engineer",
+        "company": "WG Tecnologia da Informação",
+        "location": "Campo Grande, MS · Remoto",
+        "description": "Desenvolvimento back-end robusto usando Java e ecossistema Spring, incluindo Spring Cloud para microsserviços. Proficiência em bancos de dados relacionais com foco em PostgreSQL. Experiência em pipelines CI/CD usando Docker e Jenkins. Domínio de tecnologias front-end como JavaScript, TypeScript e frameworks Vue.js, Quasar e Vuetify."
+      },
+      "mv": {
+        "role": "Desenvolvedor Back-end",
+        "company": "MV",
+        "location": "Brasil",
+        "description": "Atuei como integrador de projetos, responsável por code review, geração de versões e suporte na resolução de tickets. Destaque em projeto para cliente no Equador, onde implementei melhorias que reduziram tickets em cerca de 70%. Desenvolvi novas funcionalidades como manutenção do sistema de geração de relatórios e contribuí no front-end usando Angular."
+      },
+      "tdr": {
+        "role": "Desenvolvedor Full Stack",
+        "company": "TDR",
+        "location": "Campo Grande, MS",
+        "description": "Iniciei como desenvolvedor Android e avancei para auxiliar no desenvolvimento de um projeto educacional inovador. Responsável pelo backend em Java e frontend em Vue.js, desempenhei papel central na integração usando Swagger. Auxiliei no design e implementação de arquitetura de microsserviços, otimizando processos e habilitando sistemas distribuídos."
+      },
+      "macal": {
+        "role": "Estagiário de TI",
+        "company": "Macal Soluções em Nutrição",
+        "location": "Campo Grande, MS",
+        "description": "Responsável pela manutenção e formatação de computadores. Implementei soluções inovadoras como instalação de software de manutenção automática, resultando em redução de 30% nas solicitações de suporte técnico, melhorando eficiência operacional e satisfação dos usuários."
+      }
+    }
+  },
+  "projects": {
+    "title": "Projetos em Destaque",
+    "cta": "Ver no GitHub"
+  },
+  "contact": {
+    "title": "Contato",
+    "subtitle": "Vamos conversar! Entre em contato.",
+    "emailLabel": "Email",
+    "locationLabel": "Localização",
+    "locationValue": "Campo Grande, MS · Brasil",
+    "whatsappLabel": "WhatsApp",
+    "whatsappValue": "+55 67 98112-1278",
+    "whatsappMessage": "Olá! Vim pelo site e gostaria de falar com você."
+  },
+  "footer": {
+    "copyright": "© 2026 Wender Galan. Todos os direitos reservados."
+  }
+}
