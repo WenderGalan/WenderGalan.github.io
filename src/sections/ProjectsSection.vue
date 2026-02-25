@@ -18,10 +18,15 @@
             <div class="mt-4 flex flex-wrap gap-2">
               <span
                 v-for="tech in project.technologies"
-                :key="tech"
-                class="rounded-full bg-slate-100 px-3 py-1 text-xs font-medium text-slate-600 dark:bg-slate-800 dark:text-slate-300"
+                :key="tech.name"
+                class="inline-flex items-center gap-2 rounded-full bg-slate-100 px-3 py-1 text-xs font-medium text-slate-600 dark:bg-slate-800 dark:text-slate-300"
               >
-                {{ tech }}
+                <i
+                  :class="['fa-fw', tech.icon]"
+                  :style="{ color: tech.color }"
+                  aria-hidden="true"
+                ></i>
+                {{ tech.name }}
               </span>
             </div>
             <a

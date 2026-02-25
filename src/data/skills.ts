@@ -39,6 +39,6 @@ export const skills: Record<string, SkillItem[]> = {
     { name: 'VS Code', color: '#0ea5e9', icon: 'fa-solid fa-code' },
     { name: 'Scrum', color: '#f97316', icon: 'fa-solid fa-people-group' },
     { name: 'Kanban', color: '#f59e0b', icon: 'fa-solid fa-table-columns' },
-    { name: 'Versionamento de Código (Git)', color: '#ef4444', icon: 'fa-brands fa-git-alt' }
+    { name: 'Git', color: '#ef4444', icon: 'fa-brands fa-git-alt' }
   ]
 };
