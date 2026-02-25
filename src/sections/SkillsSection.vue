@@ -18,10 +18,15 @@
           <div class="mt-4 flex flex-wrap gap-2">
             <span
               v-for="skill in item.values"
-              :key="skill"
-              class="rounded-full bg-slate-100 px-3 py-1 text-xs font-medium text-slate-700 dark:bg-slate-800 dark:text-slate-200"
+              :key="skill.name"
+              class="inline-flex items-center gap-2 rounded-full bg-slate-100 px-3 py-1 text-xs font-medium text-slate-700 dark:bg-slate-800 dark:text-slate-200"
             >
-              {{ skill }}
+              <i
+                :class="['fa-fw', skill.icon]"
+                :style="{ color: skill.color }"
+                aria-hidden="true"
+              ></i>
+              {{ skill.name }}
             </span>
           </div>
         </article>
@@ -46,7 +51,10 @@ const skillCards = computed(() => [
   {
     key: 'languages',
     labelKey: 'skills.languages.title',
-    values: [t('skills.languages.items.portuguese'), t('skills.languages.items.english')]
+    values: [
+      { name: t('skills.languages.items.portuguese'), color: '#22c55e', icon: 'fa-solid fa-language' },
+      { name: t('skills.languages.items.english'), color: '#3b82f6', icon: 'fa-solid fa-language' }
+    ]
   }
 ]);
 </script>

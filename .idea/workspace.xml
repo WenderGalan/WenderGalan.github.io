@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b9e3058-77d7-4a23-9526-4f3660a77784" name="Changes" comment="fix: update technologies list for Outros Projetos">
+    <list default="true" id="0b9e3058-77d7-4a23-9526-4f3660a77784" name="Changes" comment="fix: update README with project overview and developer setup.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/creative.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/creative.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/skills.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/skills.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/SkillsSection.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/SkillsSection.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/vite.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,24 +15,82 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_D:/repos/study/WenderGalan.github.io" value="39tKMCm2nUagSp8h8so2pAwe2rp" />
+    </persistenceIdMap>
+  </component>
+  <component name="CopilotUserSelectedModel">
+    <selectedModels>
+      <entry key="chat-panel" value="GPT-5.2-Codex" />
+      <entry key="agent-panel" value="GPT-5.2-Codex" />
+    </selectedModels>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="44" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;WenderGalan&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/WenderGalan/WenderGalan.github.io.git&quot;,
+    &quot;accountId&quot;: &quot;8ce97ba9-697f-4c04-a98b-1b96675a6b1d&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="39tKMCm2nUagSp8h8so2pAwe2rp" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
+    "javascript.preferred.runtime.type.id": "node",
+    "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "D:/repos/study/WenderGalan.github.io/public",
     "node.js.selected.package.tslint": "(autodetect)",
-    "ts.external.directory.path": "D:\\repos\\study\\WenderGalan.github.io\\node_modules\\typescript\\lib"
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "D:\\repos\\study\\WenderGalan.github.io\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\repos\study\WenderGalan.github.io\public" />
     </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-WS-253.31033.133" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="TaskManager">
     <task id="LOCAL-00001" summary="fix: update base path for Vite configuration">
@@ -76,13 +133,42 @@
       <option name="project" value="LOCAL" />
       <updated>1771005338015</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fix: update README with project overview and developer setup.">
+      <option name="closed" value="true" />
+      <created>1771008097931</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1771008097931</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b9e3058-77d7-4a23-9526-4f3660a77784" name="Changes" comment="fix: update README with project overview and developer setup." />
+      <created>1771509878907</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771509878907</updated>
+      <workItem from="1771509880052" duration="13000" />
+      <workItem from="1772052069121" duration="164000" />
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fix: update base path for Vite configuration" />
     <MESSAGE value="fix: update title and base path for deployment" />
     <MESSAGE value="fix: update technologies list for Outros Projetos" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: update technologies list for Outros Projetos" />
+    <MESSAGE value="fix: update README with project overview and developer setup." />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: update README with project overview and developer setup." />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
   </component>
 </project>
