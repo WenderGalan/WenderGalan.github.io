@@ -85,5 +85,10 @@
   },
   "footer": {
     "copyright": "© {year} Wender Galan. All rights reserved."
+  },
+  "seo": {
+    "description": "Wender Galan is a full stack developer based in Campo Grande, Brazil, with experience in Java, Spring, Vue.js, TypeScript, microservices, and scalable web solutions.",
+    "jobTitle": "Full Stack Developer",
+    "imageAlt": "Profile photo of Wender Galan"
   }
 }

@@ -15,9 +15,10 @@
 import { RouterView } from 'vue-router';
 import Footer from './components/Footer.vue';
 import Navbar from './components/Navbar.vue';
+import { useSeo } from './composables/useSeo';
 import { useTheme } from './composables/useTheme';
 import { theme as themeConfig } from './theme';
 
 useTheme();
+useSeo();
 </script>
-

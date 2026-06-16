@@ -55,4 +55,3 @@ import { projects } from '../data/projects';
 
 const { t } = useI18n();
 </script>
-

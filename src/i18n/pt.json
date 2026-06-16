@@ -85,5 +85,10 @@
   },
   "footer": {
     "copyright": "© {year} Wender Galan. Todos os direitos reservados."
+  },
+  "seo": {
+    "description": "Wender Galan é desenvolvedor full stack em Campo Grande, MS, com experiência em Java, Spring, Vue.js, TypeScript, microsserviços e soluções web escaláveis.",
+    "jobTitle": "Desenvolvedor Full Stack",
+    "imageAlt": "Foto de perfil de Wender Galan"
   }
 }
